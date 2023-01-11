@@ -1,0 +1,16 @@
+{
+	"SearchColumn": {
+		"New Application ID": "New Application ID",
+		"Category" : "Category"
+	},
+
+	"DynamicColumn": {
+		"BaselineCoumn": {
+			"ADM ID": "Matching ADM ID (Baseline_Reference_Sheet",
+			"Final Status": "Final Status(Baseline_Reference_Sheet"
+		},
+		"NewColumn": {
+			"New Readiness": "New_Readiness"
+		}
+	}
+}

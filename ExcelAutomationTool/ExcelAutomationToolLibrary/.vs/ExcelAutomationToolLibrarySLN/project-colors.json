@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a783fd60-9900-40b7-9d2d-dc67260f2955": {
+      "ProjectGuid": "a783fd60-9900-40b7-9d2d-dc67260f2955",
+      "DisplayName": "ExcelAutomationToolLibrary",
+      "ColorIndex": 0
+    },
+    "b17eadcf-eb47-4bf0-988f-2023a1e17266": {
+      "ProjectGuid": "b17eadcf-eb47-4bf0-988f-2023a1e17266",
+      "DisplayName": "ExcelAutomationToolApp",
+      "ColorIndex": 1
+    },
+    "ea54a63e-11aa-4655-b215-d7353f71a380": {
+      "ProjectGuid": "ea54a63e-11aa-4655-b215-d7353f71a380",
+      "DisplayName": "ExcelAutomationToolLibrary",
+      "ColorIndex": 2
+    },
+    "9e165e08-363f-4681-a757-09f061791e94": {
+      "ProjectGuid": "9e165e08-363f-4681-a757-09f061791e94",
+      "DisplayName": "ExcelAutomationToolApp",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
